@@ -3,13 +3,13 @@
 
 
 ## First Task 
-### 1.1  Download Robotic arm package Done 
-### 1.2  collecting the robotic arm on 3D program (tinkercad) Done 
+### 1.1  Download Robotic arm package [Steps](https://github.com/khulud1998/mechenical-engineering-smartmethods/blob/main/Task%201%20.md)
+### 1.2  collecting the robotic arm on 3D program (tinkercad) [stl design](https://github.com/khulud1998/mechenical-engineering-smartmethods/blob/main/Robotic%20arm.stl)
 
 
 ## Second Task 
-### 2.1 Degree of Freedom for the Robot Arm (Onshape) Done 
-### 2.2 Collect the previose robotic arm with the new degree of freedom (Tinkercad) Done 
+### 2.1 Degree of Freedom for the Robot Arm (Onshape) [Degree of freedom part](https://github.com/khulud1998/mechenical-engineering-smartmethods/blob/main/degree%20of%20freedom.stl)   , [Steps](https://github.com/khulud1998/mechenical-engineering-smartmethods/blob/main/Task%202%20.md) 
+### 2.2 Collect the previose robotic arm with the new degree of freedom (Tinkercad) [The final result](https://github.com/khulud1998/mechenical-engineering-smartmethods/blob/main/robotic%20arm%20with%20new%20degree%20of%20freedom.stl)
 
 
 
